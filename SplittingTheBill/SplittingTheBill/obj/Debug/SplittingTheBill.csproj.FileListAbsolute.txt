@@ -1,0 +1,7 @@
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\bin\Debug\SplittingTheBill.exe.config
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\bin\Debug\SplittingTheBill.exe
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\bin\Debug\SplittingTheBill.pdb
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\obj\Debug\SplittingTheBill.csprojAssemblyReference.cache
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\obj\Debug\SplittingTheBill.csproj.CoreCompileInputs.cache
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\obj\Debug\SplittingTheBill.exe
+C:\Users\ratul\source\repos\SplittingTheBill\SplittingTheBill\obj\Debug\SplittingTheBill.pdb
